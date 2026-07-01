@@ -4,6 +4,13 @@
     "href": "index.html",
     "title": "Peter E. Freeman",
     "section": "",
-    "text": "This webpage is under construction."
+    "text": "I am an associate teaching professor within, and the director of the undergraduate program of, Carnegie Mellon’s Department of Statistics & Data Science.\nMy primary pedagogical interests are the teaching of mathematical statistics (the calculus-based probability and statistical inference class for undergraduates) and statistical learning (the modeling of data).\nI am in the process of authoring two textbooks:\n\nModern Probability and Statistical Inference (Illustrated with R)\nBasic Statistical Learning: a Guide for the Perplexed, with Sara Colando, Erin Franke, and Ron Yurko\n\nThis webpage is under construction."
+  },
+  {
+    "objectID": "astro.html",
+    "href": "astro.html",
+    "title": "Peter E. Freeman",
+    "section": "",
+    "text": "I no longer work in the area of astrostatistics. Some of my past work includes:\n\nGalaxy Morphology\n\nUsing random forest to detect galaxies with disturbed morphologies\nUsing local two-sample testing to detect differences in morphological statistic distributions for binary classes of galaxies (e.g., high-mass v. low-mass, simulated v. real)\n\nPhotometric Redshift Estimation\n\nUsing spectral connectivity analysis to estimate photometric redshifts\nProviding methods for estimating redshifts in the presence of selection bias\n\nCosmic Microwave Background\n\nChecking the effect of CMB map-making parameters upon observed CMB asymmetries\n\nNonlinear Data Transformation: using diffusion map to . . .\n\n. . . estimate spectroscopic redshifts of SDSS galaxies and to detect outliers\n. . . estimate photometric redshifts of SDSS and DEEP2 galaxies\n. . . estimate properties of SDSS galaxies\n\nSupernovae\n\nDark energy inference\nInferring the velocity field of the local universe\nSemi-supervised methodology for classification"
   }
 ]
